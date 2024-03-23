@@ -1,2 +1,2 @@
 <h1>Registration form</h1> 
-with the help of html and css
+Registration form with the help of html and css
