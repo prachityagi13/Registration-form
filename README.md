@@ -1,2 +1,2 @@
 <h1>Registration form</h1> 
-Registration form with the help of html and css
+This is a responsive form using HTML,CSS.
